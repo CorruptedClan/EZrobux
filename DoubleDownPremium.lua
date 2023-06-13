@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CorruptedClan/TheObsfucatedCode/main/DoubleDownUI.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CorruptedClan/TheObsfucatedCode/main/DoubleDownUI.lua.txt"))()
